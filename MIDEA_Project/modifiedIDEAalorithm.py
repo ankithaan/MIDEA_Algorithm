@@ -1,3 +1,5 @@
+#! /usr/bin/python
+
 import struct
 import time
 import getpass
